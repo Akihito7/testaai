@@ -1,0 +1,392 @@
+[
+      {
+            "id": 1,
+            "name": "Maçãs",
+            "tipo": "Frutas",
+            "seller": {
+                  "name": "Fazenda Frutíssima",
+                  "cell": 1399882001
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "10:30:00"
+            }
+      },
+      {
+            "id": 2,
+            "name": "Pão Integral",
+            "tipo": "Padaria",
+            "seller": {
+                  "name": "Padaria do Sabor",
+                  "cell": 1399882002
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "08:15:00"
+            }
+      },
+      {
+            "id": 3,
+            "name": "Iogurte Natural",
+            "tipo": "Laticínios",
+            "seller": {
+                  "name": "Laticínios Leite Fresco",
+                  "cell": 1399882003
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "14:20:00"
+            }
+      },
+      {
+            "id": 4,
+            "name": "Frango Orgânico",
+            "tipo": "Carnes",
+            "seller": {
+                  "name": "Granja Saudável",
+                  "cell": 1399882004
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "11:45:00"
+            }
+      },
+      {
+            "id": 5,
+            "name": "Massa de Trigo",
+            "tipo": "Massas",
+            "seller": {
+                  "name": "Pasta Deliziosa",
+                  "cell": 1399882005
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "09:05:00"
+            }
+      },
+      {
+            "id": 6,
+            "name": "Queijo Cheddar",
+            "tipo": "Laticínios",
+            "seller": {
+                  "name": "Laticínios Saboroso",
+                  "cell": 1399882006
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "16:30:00"
+            }
+      },
+      {
+            "id": 7,
+            "name": "Salmão Fresco",
+            "tipo": "Peixes",
+            "seller": {
+                  "name": "Peixaria Mar Azul",
+                  "cell": 1399882007
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "13:10:00"
+            }
+      },
+      {
+            "id": 8,
+            "name": "Cenouras",
+            "tipo": "Legumes",
+            "seller": {
+                  "name": "Horta Verde",
+                  "cell": 1399882008
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "07:50:00"
+            }
+      },
+      {
+            "id": 9,
+            "name": "Chocolate Amargo",
+            "tipo": "Doces",
+            "seller": {
+                  "name": "Doceria Doçura",
+                  "cell": 1399882009
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "15:25:00"
+            }
+      },
+      {
+            "id": 10,
+            "name": "Arroz Integral",
+            "tipo": "Grãos",
+            "seller": {
+                  "name": "Moinho Graneleiro",
+                  "cell": 1399882010
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "12:00:00"
+            }
+      },
+      {
+            "id": 11,
+            "name": "Camisa Polo",
+            "tipo": "Camisetas",
+            "seller": {
+                  "name": "Moda Urbana",
+                  "cell": 1399882111
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "10:30:00"
+            }
+      },
+      {
+            "id": 12,
+            "name": "Calça de Moletom",
+            "tipo": "Calças",
+            "seller": {
+                  "name": "Esportes Fashion",
+                  "cell": 1399882112
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "08:15:00"
+            }
+      },
+      {
+            "id": 13,
+            "name": "Vestido de Cocktail",
+            "tipo": "Vestidos",
+            "seller": {
+                  "name": "Moda Glamour",
+                  "cell": 1399882113
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "14:20:00"
+            }
+      },
+      {
+            "id": 14,
+            "name": "Jaqueta de Motociclista",
+            "tipo": "Casacos",
+            "seller": {
+                  "name": "Rider's Style",
+                  "cell": 1399882114
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "11:45:00"
+            }
+      },
+      {
+            "id": 15,
+            "name": "Sapatos de Salto Alto",
+            "tipo": "Calçados",
+            "seller": {
+                  "name": "Passo Elegante",
+                  "cell": 1399882115
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "09:05:00"
+            }
+      },
+      {
+            "id": 16,
+            "name": "Saia Plissada",
+            "tipo": "Saias",
+            "seller": {
+                  "name": "Moda Versátil",
+                  "cell": 1399882116
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "16:30:00"
+            }
+      },
+      {
+            "id": 17,
+            "name": "Jaqueta de Couro",
+            "tipo": "Casacos",
+            "seller": {
+                  "name": "Couro Estilizado",
+                  "cell": 1399882117
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "13:10:00"
+            }
+      },
+      {
+            "id": 18,
+            "name": "Blusa de Tricô",
+            "tipo": "Blusas",
+            "seller": {
+                  "name": "Fios Aconchegantes",
+                  "cell": 1399882118
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "07:50:00"
+            }
+      },
+      {
+            "id": 19,
+            "name": "Terno Elegante",
+            "tipo": "Ternos",
+            "seller": {
+                  "name": "Elegância Sob Medida",
+                  "cell": 1399882119
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "15:25:00"
+            }
+      },
+      {
+            "id": 20,
+            "name": "Shorts de Corrida",
+            "tipo": "Roupas Esportivas",
+            "seller": {
+                  "name": "Atividade em Movimento",
+                  "cell": 1399882120
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "12:00:00"
+            }
+      },
+      {
+            "id": 21,
+            "name": "Panela Antiaderente",
+            "tipo": "Panelas",
+            "seller": {
+                  "name": "Cozinha Prática",
+                  "cell": 1399882121
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "10:30:00"
+            }
+      },
+      {
+            "id": 22,
+            "name": "Conjunto de Facas",
+            "tipo": "Utensílios",
+            "seller": {
+                  "name": "Corte Preciso",
+                  "cell": 1399882122
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "08:15:00"
+            }
+      },
+      {
+            "id": 23,
+            "name": "Liquidificador Potente",
+            "tipo": "Eletrodomésticos",
+            "seller": {
+                  "name": "EletroCulinária",
+                  "cell": 1399882123
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "14:20:00"
+            }
+      },
+      {
+            "id": 24,
+            "name": "Forma para Bolo",
+            "tipo": "Bakeware",
+            "seller": {
+                  "name": "Doce Arte",
+                  "cell": 1399882124
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "11:45:00"
+            }
+      },
+      {
+            "id": 25,
+            "name": "Mixer de Mão",
+            "tipo": "Utensílios",
+            "seller": {
+                  "name": "Mix Rápido",
+                  "cell": 1399882125
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "09:05:00"
+            }
+      },
+      {
+            "id": 26,
+            "name": "Jogo de Copos",
+            "tipo": "Louças",
+            "seller": {
+                  "name": "Cristal Claro",
+                  "cell": 1399882126
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "16:30:00"
+            }
+      },
+      {
+            "id": 27,
+            "name": "Frigideira de Ferro Fundido",
+            "tipo": "Panelas",
+            "seller": {
+                  "name": "Tradição Culinária",
+                  "cell": 1399882127
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "13:10:00"
+            }
+      },
+      {
+            "id": 28,
+            "name": "Tábua de Corte",
+            "tipo": "Utensílios",
+            "seller": {
+                  "name": "Corte Seguro",
+                  "cell": 1399882128
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "07:50:00"
+            }
+      },
+      {
+            "id": 29,
+            "name": "Máquina de Café Expresso",
+            "tipo": "Eletrodomésticos",
+            "seller": {
+                  "name": "Café Perfeito",
+                  "cell": 1399882129
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "15:25:00"
+            }
+      },
+      {
+            "id": 30,
+            "name": "Escorredor de Louça",
+            "tipo": "Utensílios",
+            "seller": {
+                  "name": "Cozinha Organizada",
+                  "cell": 1399882130
+            },
+            "created": {
+                  "date": "2023-08-24",
+                  "time": "12:00:00"
+            }
+      }
+]
